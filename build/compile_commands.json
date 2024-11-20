@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/stefanz/Projects/ms/build",
+  "command": "/usr/bin/clang++-18 -I/home/stefanz/Projects/ms/src/include -g -o src/lab04/CMakeFiles/l04_ex1.dir/ex1.cxx.o -c /home/stefanz/Projects/ms/src/lab04/ex1.cxx",
+  "file": "/home/stefanz/Projects/ms/src/lab04/ex1.cxx",
+  "output": "src/lab04/CMakeFiles/l04_ex1.dir/ex1.cxx.o"
+},
+{
+  "directory": "/home/stefanz/Projects/ms/build",
+  "command": "/usr/bin/clang++-18 -I/home/stefanz/Projects/ms/src/include -g -o src/lab04/CMakeFiles/l04_ex2.dir/ex2.cxx.o -c /home/stefanz/Projects/ms/src/lab04/ex2.cxx",
+  "file": "/home/stefanz/Projects/ms/src/lab04/ex2.cxx",
+  "output": "src/lab04/CMakeFiles/l04_ex2.dir/ex2.cxx.o"
+},
+{
+  "directory": "/home/stefanz/Projects/ms/build",
+  "command": "/usr/bin/clang++-18 -I/home/stefanz/Projects/ms/src/include -g -o src/lab05/CMakeFiles/l05_ex1.dir/ex1.cxx.o -c /home/stefanz/Projects/ms/src/lab05/ex1.cxx",
+  "file": "/home/stefanz/Projects/ms/src/lab05/ex1.cxx",
+  "output": "src/lab05/CMakeFiles/l05_ex1.dir/ex1.cxx.o"
+},
+{
+  "directory": "/home/stefanz/Projects/ms/build",
+  "command": "/usr/bin/clang++-18 -I/home/stefanz/Projects/ms/src/include -g -o src/lab05/CMakeFiles/l05_ex2.dir/ex2.cxx.o -c /home/stefanz/Projects/ms/src/lab05/ex2.cxx",
+  "file": "/home/stefanz/Projects/ms/src/lab05/ex2.cxx",
+  "output": "src/lab05/CMakeFiles/l05_ex2.dir/ex2.cxx.o"
+},
+{
+  "directory": "/home/stefanz/Projects/ms/build",
+  "command": "/usr/bin/clang++-18 -I/home/stefanz/Projects/ms/src/include -g -o src/lab06/CMakeFiles/l06_ex1.dir/ex1.cxx.o -c /home/stefanz/Projects/ms/src/lab06/ex1.cxx",
+  "file": "/home/stefanz/Projects/ms/src/lab06/ex1.cxx",
+  "output": "src/lab06/CMakeFiles/l06_ex1.dir/ex1.cxx.o"
+},
+{
+  "directory": "/home/stefanz/Projects/ms/build",
+  "command": "/usr/bin/clang++-18 -I/home/stefanz/Projects/ms/src/include -g -o src/lab06/CMakeFiles/l06_ex2.dir/ex2.cxx.o -c /home/stefanz/Projects/ms/src/lab06/ex2.cxx",
+  "file": "/home/stefanz/Projects/ms/src/lab06/ex2.cxx",
+  "output": "src/lab06/CMakeFiles/l06_ex2.dir/ex2.cxx.o"
+},
+{
+  "directory": "/home/stefanz/Projects/ms/build",
+  "command": "/usr/bin/clang++-18 -I/home/stefanz/Projects/ms/src/include -g -o src/lab07/CMakeFiles/l07_ex1.dir/ex1.cxx.o -c /home/stefanz/Projects/ms/src/lab07/ex1.cxx",
+  "file": "/home/stefanz/Projects/ms/src/lab07/ex1.cxx",
+  "output": "src/lab07/CMakeFiles/l07_ex1.dir/ex1.cxx.o"
+}
+]

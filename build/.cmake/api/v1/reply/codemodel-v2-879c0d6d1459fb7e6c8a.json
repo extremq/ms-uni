@@ -1,0 +1,222 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30.5"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src/lab04",
+					"jsonFile" : "directory-src.lab04-Debug-822d96847adae836b056.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "src/lab04",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "src/lab05",
+					"jsonFile" : "directory-src.lab05-Debug-7d453063895752fb5094.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "src/lab05",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "src/lab06",
+					"jsonFile" : "directory-src.lab06-Debug-39daff4ccae0c0a65e7c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "src/lab06",
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				},
+				{
+					"build" : "src/lab07",
+					"jsonFile" : "directory-src.lab07-Debug-6e6bf6006a4c61210be4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "src/lab07",
+					"targetIndexes" : 
+					[
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MS"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Lab04",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Lab05",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "Lab06",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Lab07",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "l04_ex1::@a7e1502a5a748a7156fd",
+					"jsonFile" : "target-l04_ex1-Debug-2e15fd56f600cc6e1c0f.json",
+					"name" : "l04_ex1",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "l04_ex2::@a7e1502a5a748a7156fd",
+					"jsonFile" : "target-l04_ex2-Debug-24b60aa8c94c053c70a9.json",
+					"name" : "l04_ex2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "l05_ex1::@a23110a293e96390f7d7",
+					"jsonFile" : "target-l05_ex1-Debug-a61ae910fa35179666b7.json",
+					"name" : "l05_ex1",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "l05_ex2::@a23110a293e96390f7d7",
+					"jsonFile" : "target-l05_ex2-Debug-0039d16b807b809b68bf.json",
+					"name" : "l05_ex2",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "l06_ex1::@d290d8d260e014810790",
+					"jsonFile" : "target-l06_ex1-Debug-064884c4ed99ba8a5a56.json",
+					"name" : "l06_ex1",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "l06_ex2::@d290d8d260e014810790",
+					"jsonFile" : "target-l06_ex2-Debug-3fd55f9659c9f8b53cbe.json",
+					"name" : "l06_ex2",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "l07_ex1::@9b0a5b41256b8759c720",
+					"jsonFile" : "target-l07_ex1-Debug-3032661770ac5cded889.json",
+					"name" : "l07_ex1",
+					"projectIndex" : 4
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/stefanz/Projects/ms/build",
+		"source" : "/home/stefanz/Projects/ms"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

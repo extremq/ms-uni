@@ -1,0 +1,17 @@
+/home/stefanz/Projects/ms/build/CMakeFiles/edit_cache.dir
+/home/stefanz/Projects/ms/build/CMakeFiles/rebuild_cache.dir
+/home/stefanz/Projects/ms/build/src/lab04/CMakeFiles/l04_ex1.dir
+/home/stefanz/Projects/ms/build/src/lab04/CMakeFiles/l04_ex2.dir
+/home/stefanz/Projects/ms/build/src/lab04/CMakeFiles/edit_cache.dir
+/home/stefanz/Projects/ms/build/src/lab04/CMakeFiles/rebuild_cache.dir
+/home/stefanz/Projects/ms/build/src/lab05/CMakeFiles/l05_ex1.dir
+/home/stefanz/Projects/ms/build/src/lab05/CMakeFiles/l05_ex2.dir
+/home/stefanz/Projects/ms/build/src/lab05/CMakeFiles/edit_cache.dir
+/home/stefanz/Projects/ms/build/src/lab05/CMakeFiles/rebuild_cache.dir
+/home/stefanz/Projects/ms/build/src/lab06/CMakeFiles/l06_ex1.dir
+/home/stefanz/Projects/ms/build/src/lab06/CMakeFiles/l06_ex2.dir
+/home/stefanz/Projects/ms/build/src/lab06/CMakeFiles/edit_cache.dir
+/home/stefanz/Projects/ms/build/src/lab06/CMakeFiles/rebuild_cache.dir
+/home/stefanz/Projects/ms/build/src/lab07/CMakeFiles/l07_ex1.dir
+/home/stefanz/Projects/ms/build/src/lab07/CMakeFiles/edit_cache.dir
+/home/stefanz/Projects/ms/build/src/lab07/CMakeFiles/rebuild_cache.dir
